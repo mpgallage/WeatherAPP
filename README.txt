@@ -1,5 +1,3 @@
-# WeatherAPP
-
 ######### WEATHER APP #########
 
 This application makes web service calls to openweathermap.com and
