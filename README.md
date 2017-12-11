@@ -1,7 +1,5 @@
 # WeatherAPP
 
-######### WEATHER APP #########
-
 This application makes web service calls to openweathermap.com and
 shows the results accordingly. Once the API call is make on a particular
 city, that city and the weather report will be saved to the database.
